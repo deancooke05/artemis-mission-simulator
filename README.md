@@ -30,6 +30,7 @@ This project was built as both a learning exercise and a portfolio demonstration
 - Moon-relative energy analysis for capture detection
 - Visualisation of trajectory, distance, speed, and specific orbital energy
 
+'''text
 artemis-mission-simulator/
 │
 ├── README.md
