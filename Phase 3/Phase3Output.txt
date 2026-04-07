@@ -1,0 +1,15 @@
+Circular velocity: 7788.38 m/s
+Burn time: 3000.00 s
+Translunar delta-v: 3370.00 m/s
+Moon initial phase angle: 5.910 rad
+LOI delta-v: 1700.00 m/s
+Closest distance to Moon center: 1738.14 km
+Best encounter distance to Moon center: 4738.03 km
+Target lunar orbit radius: 4737.00 km
+Encounter error: 1.03 km
+Best encounter time: 38.32 hours
+LOI burn applied.
+LOI time: 36.91 hours
+No lunar impact detected.
+Final Moon-relative specific energy: -60302.55 J/kg
+Spacecraft is bound to the Moon (captured).
