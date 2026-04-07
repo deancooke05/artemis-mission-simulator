@@ -30,7 +30,7 @@ This project was built as both a learning exercise and a portfolio demonstration
 - Moon-relative energy analysis for capture detection
 - Visualisation of trajectory, distance, speed, and specific orbital energy
 
-'''text
+```text
 artemis-mission-simulator/
 │
 ├── README.md
@@ -60,7 +60,10 @@ artemis-mission-simulator/
     ├── phase2/
     └── phase3/
 
-** Physics and Methods **
+
+
+
+Physics and Methods
 
 The simulation is based on Newtonian mechanics and numerical time integration.
 
