@@ -1,0 +1,21 @@
+Burnout altitude: 85281.45 m
+Burnout velocity: 1629.31 m/s
+Maximum altitude: 154634.10 m
+Maximum velocity: 1631.83 m/s
+Maximum acceleration: 25.19 m/s²
+
+Burnout altitude ≈ 85.3 km
+That means the rocket is above the Kármán-line-ish region by engine cutoff, so it has climbed through most of the dense atmosphere. For a simplified heavy-lift ascent model, it is quite accurate. 
+
+Burnout velocity ≈ 1629 m/s
+That is well below orbital velocity, which is good. So the sim is behaving sensibly.
+
+Maximum altitude ≈ 154.6 km
+That means after burnout, the rocket still coasts upward for a while because it has upward momentum.
+
+Maximum velocity ≈ 1631.8 m/s
+This being only slightly higher than burnout velocity means the rocket more-or-less reaches peak speed right around burnout, then gravity starts winning.
+
+Maximum acceleration ≈ 25.2 m/s²
+That is about:
+≈2.57g
