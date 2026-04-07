@@ -1,0 +1,11 @@
+Initial circular orbit velocity: 7788.38 m/s
+Escape velocity at initial orbit: 11014.43 m/s
+Burn 1 time: 2000.00 s
+Burn 1 delta-v: 100.00 m/s
+Burn 2 delta-v: 98.72 m/s
+Burn 2 time: 4758.00 s
+Minimum altitude: 200000.00 m
+Maximum altitude: 548909.89 m
+Minimum speed: 7490.91 m/s
+Maximum speed: 7888.38 m/s
+Mean specific orbital energy: -29166266.52 J/kg
